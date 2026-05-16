@@ -47,7 +47,7 @@ Scraper aşağıdaki bilgileri çekmektedir:
 ## 1. Repository'i klonla
 
 ```bash
-git clone https://github.com/kullaniciadi/domenico-tedesco-scraper.git
+git clone https://github.com/kupadediginbosbirkase/domenico-tedesco-scraper.git
 ```
 
 ## 2. Proje klasörüne gir
