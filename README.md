@@ -106,10 +106,10 @@ dosyası oluşacaktır.
     "nationality": "Italy",
     "career_history": [
         {
-            "team": "RB Leipzig"
+            "team": "Fenerbahce"
         },
         {
-            "team": "Belgium"
+            "team": "Turkey"
         }
     ]
 }
