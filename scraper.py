@@ -8,3 +8,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+#Geliştirmeye devam ederiz belki ya ya çok kurcalama :d 
